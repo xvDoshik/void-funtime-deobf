@@ -1,0 +1,8 @@
+.cache/
+out/extracted/
+
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/

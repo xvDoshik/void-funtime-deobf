@@ -1,0 +1,59 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "CLASSESS.M",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "F",
+    "RH",
+    "oq",
+    "vP",
+    "rF"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  },
+  "priority": 1500,
+  "overwrites": {
+    "conformVisibility": true
+  },
+  "client": [
+    "CNFw",
+    "jEn",
+    "wnSRjH",
+    "CJYYzN",
+    "al",
+    "oHvpd",
+    "rq",
+    "Jt",
+    "lMyZFo",
+    "wxkbm",
+    "pXrkwq",
+    "jdMZO",
+    "Kz",
+    "UWzDe",
+    "qe",
+    "I",
+    "HuWVq",
+    "llQpvq",
+    "WeuFmN",
+    "jC",
+    "yE",
+    "Pd",
+    "tTeuAC",
+    "QCYBan",
+    "vg",
+    "qMcD",
+    "iZtxSe",
+    "pA",
+    "qo",
+    "YHhBPN",
+    "hjmKN",
+    "kOLGsi",
+    "UMZytA",
+    "La",
+    "zJgmx",
+    "mCm"
+  ],
+  "refmap": "Void-refmap.json"
+}
